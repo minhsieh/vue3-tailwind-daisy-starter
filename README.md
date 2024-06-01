@@ -1,6 +1,8 @@
-# min.biz
+# Vue3 Tailwind Daisy Starter
 
-This template should help get you started developing with Vue 3 in Vite.
+This starter template helps me quickly build a simple frontend website, primarily using Vue3 & Vite, Tailwind CSS, and Daisy as the main components.
+
+It also utilizes Eslint & Prettier and comes pre-configured with some basic settings, saving time on initial project setup and configuration.
 
 ## Recommended IDE Setup
 
